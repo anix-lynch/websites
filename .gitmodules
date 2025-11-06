@@ -7,3 +7,6 @@
 [submodule "anixlynch.github.io"]
 	path = anixlynch.github.io
 	url = https://github.com/anix-lynch/anixlynch.github.io.git
+[submodule "anixlynch.com"]
+	path = anixlynch.com
+	url = git@github.com:anix-lynch/portfolio-2025.git
