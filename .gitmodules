@@ -1,0 +1,9 @@
+[submodule "anix-lynch.github.io"]
+	path = anix-lynch.github.io
+	url = https://github.com/anix-lynch/anix-lynch.github.io.git
+[submodule "gozeroshot.dev"]
+	path = gozeroshot.dev
+	url = https://github.com/anix-lynch/gozeroshot.dev.git
+[submodule "anixlynch.github.io"]
+	path = anixlynch.github.io
+	url = https://github.com/anix-lynch/anixlynch.github.io.git
